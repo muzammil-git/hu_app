@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816837080084",
+    "project_id": "habib-app-8fd0c",
+    "storage_bucket": "habib-app-8fd0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816837080084:android:734cd6445b0bdfcaf76301",
+        "android_client_info": {
+          "package_name": "com.example.habib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816837080084-rh08sv584ev7bcctmbf4q8avngmopgoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeJxcIt8o5CrV0PQQvbOCDn296YjUxY7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816837080084-rh08sv584ev7bcctmbf4q8avngmopgoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
