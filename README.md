@@ -1,16 +1,8 @@
 # hu_app
 
-A new Flutter project.
+# Output
+Testing an API response
 
-## Getting Started
+<img height="500" align="left" alt="image" src="https://user-images.githubusercontent.com/54685589/220048165-f44926e1-4159-44ab-98ac-d5f1541a6751.png">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img height="300" align="left" alt="image" src="https://user-images.githubusercontent.com/54685589/220050126-091e9000-db4b-4d4f-97a6-641cef52316f.png">
